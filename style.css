@@ -1,3 +1,21 @@
 body {
-    back
+    background-color: deeppink;
+    color:mediumvioletred;
+    font-family: "Trebuchet MS", "Comic Sans MS" , cursive;
+    margin: 0;
+
+}
+header {
+    font-size: 60px;
+    border-bottom: double 5px pink;
+    padding: 6px;
+    text-aligin: center;
+
+}
+h1 {
+    font-size: 30px;
+
+}
+p {
+   font-size: 20px;
 }
